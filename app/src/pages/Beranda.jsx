@@ -17,7 +17,7 @@ export default function Beranda() {
           Ada {items.length} Resep Masakan Nusantara {jumlahKategori} kategori.
         </p>
       )}
-      <Link to="/koleksi">Lihat semua tugas</Link>
+      <Link to="/koleksi">Lihat semua resep masakan</Link>
     </section>
   )
 }
