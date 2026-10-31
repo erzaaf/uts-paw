@@ -1,10 +1,10 @@
-# Nama Aplikasi
+# Aplikasi Web Resep Masakan Nusantara
 
-Nama: Erza Farandi
-NIM: 124140171
-Kelas: RB
-Tema: Resep Masakan Nusantara
-Deployment: https://erzaaf.github.io/uts-paw/
+- Nama: ERZA FARANDI
+- NIM: 124140171
+- Kelas: RB
+- Tema: Resep Masakan Nusantara
+- Deployment: https://erzaaf.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
@@ -14,9 +14,11 @@ Deployment: https://erzaaf.github.io/uts-paw/
 
 ## Menjalankan secara lokal
 
-cd app
-npm install
-npm run dev
+   ```bash
+   cd app
+   npm install
+   npm run dev
+   ```
 
 ## Konsep React yang dipakai
 
