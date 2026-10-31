@@ -1,10 +1,91 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Rendang",
+    "kategori": "Lauk pauk",
+    "DaerahAsal": "Sumatera Barat",
+    "WaktuMasak": "3 jam",
+    "TingkatKesulitan": "Sulit"
+  },
+
+  {
+    "id": "2",
+    "judul": "Pempek",
+    "kategori": "Olahan ikan",
+    "DaerahAsal": "Sumatera Selatan",
+    "WaktuMasak": "1 jam",
+    "TingkatKesulitan": "Sedang"
+  },
+
+  {
+    "id": "3",
+    "judul": "Gado gado",
+    "kategori": "Sayuran",
+    "DaerahAsal": "Jakarta",
+    "WaktuMasak": "30 menit",
+    "TingkatKesulitan": "Mudah"
+  },
+
+  {
+    "id": "4",
+    "judul": "Papeda kuah kuning",
+    "kategori": "Makanan berkuah",
+    "DaerahAsal": "Papua",
+    "WaktuMasak": "45 menit",
+    "TingkatKesulitan": "Sedang"
+  },
+
+  {
+    "id": "5",
+    "judul": "Rawon",
+    "kategori": "Makanan berkuah",
+    "DaerahAsal": "Jawa Timur",
+    "WaktuMasak": "90 menit",
+    "TingkatKesulitan": "Sedang"
+  },
+
+  {
+    "id": "6",
+    "judul": "Klepon",
+    "kategori": "Kue",
+    "DaerahAsal": "Jawa",
+    "WaktuMasak": "20 menit",
+    "TingkatKesulitan": "Mudah"
+  },
+
+  {
+    "id": "7",
+    "judul": "Ayam rica-rica",
+    "kategori": "Lauk pauk",
+    "DaerahAsal": "Sulawesi Utara",
+    "WaktuMasak": "40 menit",
+    "TingkatKesulitan": "Sedang"
+  },
+
+  {
+    "id": "8",
+    "judul": "Urap Sayur",
+    "kategori": "Sayuran",
+    "DaerahAsal": "Jawa",
+    "WaktuMasak": "30 menit",
+    "TingkatKesulitan": "Mudah"
+  },
+
+  {
+    "id": "9",
+    "judul": "Kue Putu",
+    "kategori": "Kue",
+    "DaerahAsal": "Jawa",
+    "WaktuMasak": "10 menit",
+    "TingkatKesulitan": "Mudah"
+  },
+
+  {
+    "id": "10",
+    "judul": "Sayur Lodeh",
+    "kategori": "Sayuran",
+    "DaerahAsal": "Jawa Tengah",
+    "WaktuMasak": "40 menit",
+    "TingkatKesulitan": "Mudah"
   }
 ]

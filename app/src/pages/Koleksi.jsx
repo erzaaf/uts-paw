@@ -30,7 +30,7 @@ export default function Koleksi() {
         </select>
       </div>
       {tampil.length === 0 ? (
-        <p>Tidak ada item yang cocok.</p>
+        <p>Tidak ada resep yang cocok.</p>
       ) : (
         <div className="daftar-kartu">
           {tampil.map((item) => (
