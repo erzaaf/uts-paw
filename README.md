@@ -1,10 +1,10 @@
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Erza Farandi
+NIM: 124140171
+Kelas: RB
+Tema: Resep Masakan Nusantara
+Deployment: https://erzaaf.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
