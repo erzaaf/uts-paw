@@ -1,5 +1,6 @@
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
+import DaftarDetail from '../components/DaftarDetail.jsx'
 
 export default function Detail() {
   const { id } = useParams()
@@ -11,7 +12,7 @@ export default function Detail() {
   if (!item) {
     return (
       <section>
-        <h1>Item tidak ditemukan</h1>
+        <h1>Resep tidak ditemukan</h1>
         <Link to="/koleksi">Kembali ke koleksi</Link>
       </section>
     )
@@ -27,16 +28,7 @@ export default function Detail() {
   return (
     <section>
       <h1>{item.judul}</h1>
-      <dl>
-        <dt>Kategori</dt>
-        <dd>{item.kategori}</dd>
-        <dt>Daerah Asal</dt>
-        <dd>{item.DaerahAsal}</dd>
-        <dt>Waktu Masak</dt>
-        <dd>{item.WaktuMasak}</dd>
-        <dt>Tingkat Kesulitan</dt>
-        <dd>{item.TingkatKesulitan}</dd>
-      </dl>
+      <DaftarDetail item={item} />
       <div className="aksi">
         <button type="button" onClick={konfirmasiHapus}>
           Hapus
