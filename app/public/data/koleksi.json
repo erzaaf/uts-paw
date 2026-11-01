@@ -3,89 +3,89 @@
     "id": "1",
     "judul": "Rendang",
     "kategori": "Lauk pauk",
-    "DaerahAsal": "Sumatera Barat",
-    "WaktuMasak": "3 jam",
-    "TingkatKesulitan": "Sulit"
+    "daerahAsal": "Sumatera Barat",
+    "waktuMasak": "3 jam",
+    "tingkatKesulitan": "Sulit"
   },
 
   {
     "id": "2",
     "judul": "Pempek",
     "kategori": "Makanan kering",
-    "DaerahAsal": "Sumatera Selatan",
-    "WaktuMasak": "1 jam",
-    "TingkatKesulitan": "Sedang"
+    "daerahAsal": "Sumatera Selatan",
+    "waktuMasak": "1 jam",
+    "tingkatKesulitan": "Sedang"
   },
 
   {
     "id": "3",
     "judul": "Gado gado",
     "kategori": "Sayuran",
-    "DaerahAsal": "Jakarta",
-    "WaktuMasak": "30 menit",
-    "TingkatKesulitan": "Mudah"
+    "daerahAsal": "Jakarta",
+    "waktuMasak": "30 menit",
+    "tingkatKesulitan": "Mudah"
   },
 
   {
     "id": "4",
     "judul": "Papeda kuah kuning",
     "kategori": "Makanan berkuah",
-    "DaerahAsal": "Papua",
-    "WaktuMasak": "45 menit",
-    "TingkatKesulitan": "Sedang"
+    "daerahAsal": "Papua",
+    "waktuMasak": "45 menit",
+    "tingkatKesulitan": "Sedang"
   },
 
   {
     "id": "5",
     "judul": "Rawon",
     "kategori": "Makanan berkuah",
-    "DaerahAsal": "Jawa Timur",
-    "WaktuMasak": "90 menit",
-    "TingkatKesulitan": "Sedang"
+    "daerahAsal": "Jawa Timur",
+    "waktuMasak": "90 menit",
+    "tingkatKesulitan": "Sedang"
   },
 
   {
     "id": "6",
     "judul": "Klepon",
     "kategori": "Kue",
-    "DaerahAsal": "Jawa",
-    "WaktuMasak": "20 menit",
-    "TingkatKesulitan": "Mudah"
+    "daerahAsal": "Jawa",
+    "waktuMasak": "20 menit",
+    "tingkatKesulitan": "Mudah"
   },
 
   {
     "id": "7",
     "judul": "Ayam rica-rica",
     "kategori": "Lauk pauk",
-    "DaerahAsal": "Sulawesi Utara",
-    "WaktuMasak": "40 menit",
-    "TingkatKesulitan": "Sedang"
+    "daerahAsal": "Sulawesi Utara",
+    "waktuMasak": "40 menit",
+    "tingkatKesulitan": "Sedang"
   },
 
   {
     "id": "8",
     "judul": "Urap Sayur",
     "kategori": "Sayuran",
-    "DaerahAsal": "Jawa",
-    "WaktuMasak": "30 menit",
-    "TingkatKesulitan": "Mudah"
+    "daerahAsal": "Jawa",
+    "waktuMasak": "30 menit",
+    "tingkatKesulitan": "Mudah"
   },
 
   {
     "id": "9",
     "judul": "Kue Putu",
     "kategori": "Kue",
-    "DaerahAsal": "Jawa",
-    "WaktuMasak": "10 menit",
-    "TingkatKesulitan": "Mudah"
+    "daerahAsal": "Jawa",
+    "waktuMasak": "10 menit",
+    "tingkatKesulitan": "Mudah"
   },
 
   {
     "id": "10",
     "judul": "Sayur Lodeh",
     "kategori": "Sayuran",
-    "DaerahAsal": "Jawa Tengah",
-    "WaktuMasak": "40 menit",
-    "TingkatKesulitan": "Mudah"
+    "daerahAsal": "Jawa Tengah",
+    "waktuMasak": "40 menit",
+    "tingkatKesulitan": "Mudah"
   }
 ]
