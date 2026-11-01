@@ -9,11 +9,18 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem 1.5rem;
+  background-color: #0073ff;
+  color: #fff;
 }
 
 .menu {
   display: flex;
   gap: 1rem;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .menu a.active {
@@ -33,6 +40,7 @@
   border-top: 1px solid #dcdcdc;
   color: #57606a;
   font-size: 0.9rem;
+  text-align: center;
 }
 
 .aksi {

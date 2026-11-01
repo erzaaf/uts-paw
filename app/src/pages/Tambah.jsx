@@ -28,7 +28,7 @@ export default function Tambah() {
       <h1>Tambah Resep</h1>
 
       <label htmlFor="judul">Judul Resep</label>
-      <input id="judul" name="judul" value={form.judul} onChange={ubah} />
+      <input id="judul" name="judul" value={form.judul} onChange={ubah} placeholder="Contoh: Rendang" />
       {galat && <p role="alert">{galat}</p>}
 
       <label htmlFor="kategori">Kategori</label>
@@ -40,10 +40,10 @@ export default function Tambah() {
       </select>
 
       <label htmlFor="daerahAsal">Daerah Asal</label>
-      <input id="daerahAsal" name="daerahAsal" value={form.daerahAsal} onChange={ubah} />
+      <input id="daerahAsal" name="daerahAsal" value={form.daerahAsal} onChange={ubah} placeholder="Contoh: Lampung" />
 
       <label htmlFor="waktuMasak">Waktu Masak</label>
-      <input id="waktuMasak" name="waktuMasak" value={form.waktuMasak} onChange={ubah} />
+      <input id="waktuMasak" name="waktuMasak" value={form.waktuMasak} onChange={ubah} placeholder="Contoh: 30 menit" />
 
       <label htmlFor="tingkatKesulitan">Tingkat Kesulitan</label>
       <select id="tingkatKesulitan" name="tingkatKesulitan" value={form.tingkatKesulitan} onChange={ubah}>
