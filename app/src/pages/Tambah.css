@@ -3,6 +3,11 @@
   flex-direction: column;
   gap: 0.5rem;
   max-width: 480px;
+  margin: 0 auto;
+}
+
+.formulir h1 {
+  text-align: center;
 }
 
 .formulir label {
@@ -25,8 +30,8 @@
 }
 
 .formulir button {
-  align-self: flex-start;
-  margin-top: 1rem;
+  align-self: center;
+  margin-top: 1.5rem;
   padding: 0.6rem 1.5rem;
   border: 0;
   border-radius: 6px;
