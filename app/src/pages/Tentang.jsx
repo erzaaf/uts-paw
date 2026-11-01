@@ -11,25 +11,28 @@ export default function Tentang() {
       <h1>Tentang</h1>
       <table className="tabelTentang">
         <tr>
-          <td>Nama</td>
+          <td><strong>Nama</strong></td>
           <td>{nama}</td>
         </tr>
         <tr>
-          <td>NIM</td>
+          <td><strong>NIM</strong></td>
           <td>{nim}</td>
         </tr>
         <tr>
-          <td>Kelas</td>
+          <td><strong>Kelas</strong></td>
           <td>{kelas}</td>
         </tr>
         <tr>
-          <td>Tema</td>
+          <td><strong>Tema</strong></td>
           <td>{tema}</td>
         </tr>
+        <tr>
+          <td><strong>Repo</strong></td>
+          <td>
+            <a href={REPO}>{REPO}</a>
+          </td>
+        </tr>
       </table>
-      <p>
-        Kode sumber: <a href={REPO}>{REPO}</a>
-      </p>
     </section>
   )
 }
